@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+
+# A Good Understanding of ML Algorithms:
+# Logistic regression
+# KNN
+# Decission Tree
+# Support Vector Machine
+# Random Forest
